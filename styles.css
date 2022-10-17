@@ -96,6 +96,8 @@ ul {
 .text-contact {
     width: 50%;
     margin-top: 20px;
+    border-bottom: 2px solid white;
+    padding-bottom: 20px;
 }
 
 p {
